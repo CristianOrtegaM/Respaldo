@@ -1,3 +1,4 @@
+//erick
 Ext.define('AFW_FND_Xjs.controller.ext.Viewport', {
     extend: 'Ext.app.Controller',
     models: ['AFW_FND_Xjs.model.util.Constantes',
