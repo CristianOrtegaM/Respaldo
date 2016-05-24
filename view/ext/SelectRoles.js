@@ -1,3 +1,4 @@
+//junior
 Ext.define('AFW_FND_Xjs.view.ext.SelectRoles', {
     extend: 'Ext.window.Window',
     requires: ['AFW_FND_Xjs.view.ext.Viewport'],
