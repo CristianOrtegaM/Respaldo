@@ -1,3 +1,4 @@
+// prueba cosorio 2
 Ext.define('AFW_FND_Xjs.validation.ext.model.com.claveSoluciones.acordFw.commonElements.commonClasses.ExchangeRateV1Validation', {
     extend: 'Ext.data.Model',
     createValidations: function(exchangeRateV1) {
