@@ -1,3 +1,4 @@
+﻿// prueba cosorio
 Ext.define('AFW_FND_Xjs.validation.ext.model.com.claveSoluciones.acordFw.category.ProductGroupV1Validation', {
     extend: 'Ext.data.Model',
     createValidations: function(productGroupV1) {
